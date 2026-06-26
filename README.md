@@ -49,6 +49,4 @@ Don't forget to install a nerd font or meslo font. \
 Your terminal is good to go. ;)
 ## Authors
 
-- [@fliqlo](https://www.github.com/fliqlo)
-- [@hu4fxw](https://www.github.com/hu4fxw)
 - [@brayan](https://facebook.com/brn.geo04)
