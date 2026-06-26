@@ -36,7 +36,7 @@ to the fastfetch directory
   cp ascii.txt && cp config.jsonc /home/user/.config/fastfetch/
 ```
 Go to the .bashrc file and edit it and \
-put this code in the last line \
+put this code in the last line 
 ```bash
   cd /home/user/
   ll
