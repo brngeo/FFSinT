@@ -48,6 +48,6 @@ put this code in the last line \
 ```
 Don't forget to install a nerd font or meslo font. \
 Your terminal is good to go. ;)
-## Authors
+## Author
 
 - [@brayan](https://facebook.com/brn.geo04)
